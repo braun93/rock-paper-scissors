@@ -63,3 +63,4 @@ function game() {
     }
     console.log(gameEnd());
 }
+game();
